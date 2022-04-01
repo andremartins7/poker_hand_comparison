@@ -16,7 +16,7 @@ Um famoso cassino de repente enfrenta um grande declínio de sua receita. Então
 Este programa feito em python representa uma mão de Poker chamada "PokerHand" e possue os métodos/classes para comparar uma mão de Poker com outra e definir a vencedora.
 Ele possui um construtor que aceita uma String contendo 5 cartas.
 
-Originalmente o projeto foi eleborado em formato de Notebook utilizando o Google Colab, posteriormente foi adaptado para o formato `.py`.
+Originalmente o projeto foi elaborado em formato de Notebook utilizando o Google Colab, posteriormente foi adaptado para o formato `.py`.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
